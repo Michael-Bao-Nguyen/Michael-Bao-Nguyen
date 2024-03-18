@@ -7,4 +7,4 @@
 - 😄 Pronouns: He
 - ⚡ Fun fact: i have a problem is a problem
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michael-Bao-Nguyen)](https://github.com/Michael-Bao-Nguyen/github-readme-stats)
