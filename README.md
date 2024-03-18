@@ -6,7 +6,7 @@
 - 📫 How to reach me: www.linkedin.com/in/michael-bao-nguyen
 - 😄 Pronouns: He
 - ⚡ Fun fact: i have a problem is a problem
-
+![Metrics](/github-metrics.svg)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michael-Bao-Nguyen&repo=micro-service-demo&show_icons=true&theme=radical)](https://github.com/Michael-Bao-Nguyen/micro-service-demo)
 
