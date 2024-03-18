@@ -5,7 +5,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michael-Bao-Nguyen&repo=micro-service-demo&show_icons=true&theme=radical)](https://github.com/Michael-Bao-Nguyen/micro-service-demo)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Michael-Bao-Nguyen&repo=micro-service-demo&show_icons=true&theme=radical)](https://github.com/Michael-Bao-Nguyen/micro-service-demo)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Michael-Bao-Nguyen&repo=landing-page-streaming-base&show_icons=true&theme=dacula)](https://github.com/Michael-Bao-Nguyen/landing-page-streaming-base)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Michael-Bao-Nguyen&repo=landing-page-streaming-base&show_icons=true&theme=dracula)](https://github.com/Michael-Bao-Nguyen/landing-page-streaming-base)
 
 ### Hi there 👋
 - 🔭 I’m currently working on Factorazy
