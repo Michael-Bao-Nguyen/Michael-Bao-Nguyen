@@ -13,3 +13,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michael-Bao-Nguyen&show_icons=true&theme=dracula)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michael-Bao-Nguyen&show_icons=true&theme=dracula)](https://github.com/Michael-Bao-Nguyen/factorazy)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Michael-Bao-Nguyen&repo=factorazy)](https://github.com/Michael-Bao-Nguyen/factorazy)
