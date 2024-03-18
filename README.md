@@ -1,12 +1,3 @@
-![Metrics](/github-metrics.svg)
-
-![Metrics](/metrics.plugin.isocalendar.fullyear.svg)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michael-Bao-Nguyen&repo=micro-service-demo&show_icons=true&theme=radical)](https://github.com/Michael-Bao-Nguyen/micro-service-demo)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Michael-Bao-Nguyen&repo=micro-service-demo&show_icons=true&theme=radical)](https://github.com/Michael-Bao-Nguyen/micro-service-demo)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Michael-Bao-Nguyen&repo=landing-page-streaming-base&show_icons=true&theme=dracula)](https://github.com/Michael-Bao-Nguyen/landing-page-streaming-base)
-
 ### Hi there 👋
 - 🔭 I’m currently working on Factorazy
 - 🌱 I’m currently learning love
@@ -15,6 +6,15 @@
 - 📫 How to reach me: www.linkedin.com/in/michael-bao-nguyen
 - 😄 Pronouns: He
 - ⚡ Fun fact: i have a problem is a problem
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michael-Bao-Nguyen&repo=micro-service-demo&show_icons=true&theme=radical)](https://github.com/Michael-Bao-Nguyen/micro-service-demo)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Michael-Bao-Nguyen&repo=micro-service-demo&show_icons=true&theme=radical)](https://github.com/Michael-Bao-Nguyen/micro-service-demo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Michael-Bao-Nguyen&repo=landing-page-streaming-base&show_icons=true&theme=dracula)](https://github.com/Michael-Bao-Nguyen/landing-page-streaming-base)
+
+![Metrics](/github-metrics.svg)
+
+![Metrics](/metrics.plugin.isocalendar.fullyear.svg)
 
 
 
