@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=Michael-Bao-Nguyen&style=for-the-badge)[![GitHub followers](https://img.shields.io/github/followers/Michael-Bao-Nguyen?style=for-the-badge)](https://github.com/Michael-Bao-Nguyen)
+![](https://komarev.com/ghpvc/?username=Michael-Bao-Nguyen&style=for-the-badge)  [![GitHub followers](https://img.shields.io/github/followers/Michael-Bao-Nguyen?style=for-the-badge)](https://github.com/Michael-Bao-Nguyen)
 
 
 ### Hi there 👋
