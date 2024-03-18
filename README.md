@@ -3,7 +3,7 @@
 ### Hi there 👋
 - 🔭 I’m Bao nguyen (Michael)
 - 🌱 I’m currently software engineer
-- 📫 How to reach me: www.linkedin.com/in/michael-bao-nguyen
+- 📫 How to reach me:
 <p align="left"> <a href="https://www.linkedin.com/in/michael-bao-nguyen/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
 
