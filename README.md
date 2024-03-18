@@ -10,7 +10,7 @@
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Michael-Bao-Nguyen&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Michael-Bao-Nguyen/github-readme-stats#gh-dark-mode-only)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michael-Bao-Nguyen&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michael-Bao-Nguyen&repo=micro-service-demo&show_icons=true&theme=dracula)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Michael-Bao-Nguyen&repo=micro-service-demo&show_icons=true&theme=dracula)](https://github.com/Michael-Bao-Nguyen/micro-service-demo)
 
