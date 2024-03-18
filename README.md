@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=Michael-Bao-Nguyen&style=flat-square)
+![](https://komarev.com/ghpvc/?username=Michael-Bao-Nguyen&style=for-the-badge)
 
 ### Hi there 👋
 - 🔭 I’m currently working on Factorazy
