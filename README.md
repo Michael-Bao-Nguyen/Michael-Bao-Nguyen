@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+
 ### Hi there 👋
 - 🔭 I’m currently working on Factorazy
 - 🌱 I’m currently software engineer
