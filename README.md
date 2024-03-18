@@ -5,7 +5,7 @@
 - 🌱 I’m currently software engineer
 - 📫 How to reach me: www.linkedin.com/in/michael-bao-nguyen
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michael-Bao-Nguyen&repo=micro-service-demo&show_icons=true&theme=chartreuse-dark)](https://github.com/Michael-Bao-Nguyen/micro-service-demo)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michael-Bao-Nguyen&repo=micro-service-demo&show_icons=true&theme=chartreuse-dark&hide=prs,issues,contribs)](https://github.com/Michael-Bao-Nguyen/micro-service-demo)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Michael-Bao-Nguyen&repo=micro-service-demo&show_icons=true&theme=radical)](https://github.com/Michael-Bao-Nguyen/micro-service-demo)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Michael-Bao-Nguyen&repo=landing-page-streaming-base&show_icons=true&theme=dracula)](https://github.com/Michael-Bao-Nguyen/landing-page-streaming-base)
