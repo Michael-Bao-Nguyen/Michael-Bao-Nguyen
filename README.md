@@ -20,5 +20,8 @@
 
 ![Metrics](/github-metrics.svg)![Metrics](/metrics.plugin.isocalendar.fullyear.svg)
 
+| Cấu trúc 1                                     | Cấu trúc 2                                           |
+| -------------------------------------------- | -------------------------------------------------- |
+| ![Metrics](/github-metrics.svg) | ![Metrics](/metrics.plugin.isocalendar.fullyear.svg) |
 
 
