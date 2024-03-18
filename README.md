@@ -7,10 +7,12 @@
 - 😄 Pronouns: He
 - ⚡ Fun fact: i have a problem is a problem
 
-![Metrics](/github-metrics.svg)![Metrics](/metrics.plugin.isocalendar.fullyear.svg)
-
-
+![Metrics](/github-metrics.svg)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michael-Bao-Nguyen&repo=micro-service-demo&show_icons=true&theme=radical)](https://github.com/Michael-Bao-Nguyen/micro-service-demo)
+
+![Metrics](/metrics.plugin.isocalendar.fullyear.svg)
+
+
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Michael-Bao-Nguyen&repo=micro-service-demo&show_icons=true&theme=radical)](https://github.com/Michael-Bao-Nguyen/micro-service-demo)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Michael-Bao-Nguyen&repo=micro-service-demo&show_icons=true&theme=radical)](https://github.com/Michael-Bao-Nguyen/micro-service-demo)
