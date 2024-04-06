@@ -18,10 +18,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Michael-Bao-Nguyen&repo=micro-service-demo&show_icons=true&theme=radical)](https://github.com/Michael-Bao-Nguyen/micro-service-demo)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Michael-Bao-Nguyen&repo=landing-page-streaming-base&show_icons=true&theme=dracula)](https://github.com/Michael-Bao-Nguyen/landing-page-streaming-base)
 
-<div style="display:flex; flex-wrap: wrap;">
-    <img src="/github-metrics.svg" alt="Metrics" style="max-width: 50%; flex-shrink: 0;"/>
-    <img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics" style="max-width: 50%; flex-shrink: 0;"/>
-</div>
+![Metrics](/github-metrics.svg =300x) ![Metrics](/metrics.plugin.isocalendar.fullyear.svg =300x)
+
 
 
 
